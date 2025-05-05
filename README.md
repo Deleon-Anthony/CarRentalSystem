@@ -11,7 +11,7 @@ The system supports real-world business processes such as rental agreement creat
 
 ![](./CustomerServiceApp.gif)
 
-### 📄 [Rental Agreement PDF](./SalesforceCustomerServiceGuide.pdf)
+### 📄 [Click Here For The Full Customer Service Guide](./SalesforceCustomerServiceGuide.pdf)
 
 ![](./CustomerServiceGuide.gif)
 
@@ -32,3 +32,12 @@ Every tool within the app is designed for ease of use, supporting the fast-paced
 ---
 
 ## 🧰 Vehicle Maintenance App
+
+![](./VehicleMaintenanceApp.gif)
+
+### 📄 [Click Here For The Full Vehicle Maintenance Guide](./SalesforceVehicleMaintenanceGuide.pdf)
+
+![](./VehicleMaintenanceGuide.gif)
+
+### 🎥[Vehicle Maintenance App - Video Tutorials](https://vimeo.com/showcase/11693718)
+
