@@ -9,7 +9,6 @@ The system supports real-world business processes such as rental agreement creat
 
 ## 👨‍💻 Customer Service App 
 
-![](./CustomerServiceApp.gif) 
 
 ### 📄 [Rental Agreement PDF](./SalesforceCustomerServiceGuide.pdf)
 ### 🎥 [Customer Service App – Video Tutorials](https://vimeo.com/showcase/11687420)
