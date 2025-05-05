@@ -9,9 +9,8 @@ The system supports real-world business processes such as rental agreement creat
 
 ## 👨‍💻 Customer Service App 
 
-place holder for gif
-place holder for pdf
 
+### 📄 [Rental Agreement PDF](./SalesforceCustomerServiceGuide.pdf)
 ### 🎥 [Customer Service App – Video Tutorials](https://vimeo.com/showcase/11687420)
 
 The **Customer Service App** is designed for rental agents to manage the complete vehicle rental process with speed and clarity. With a screen flow this app walks users step-by-step through finding available vehicles, entering customer details, and finalizing rental agreements — all within a clean and guided Salesforce interface.
