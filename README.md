@@ -9,8 +9,12 @@ The system supports real-world business processes such as rental agreement creat
 
 ## 👨‍💻 Customer Service App 
 
+![](./CustomerServiceApp.gif)
 
 ### 📄 [Rental Agreement PDF](./SalesforceCustomerServiceGuide.pdf)
+
+![](./CustomerServiceGuide.gif)
+
 ### 🎥 [Customer Service App – Video Tutorials](https://vimeo.com/showcase/11687420)
 
 The **Customer Service App** is designed for rental agents to manage the complete vehicle rental process with speed and clarity. With a screen flow this app walks users step-by-step through finding available vehicles, entering customer details, and finalizing rental agreements — all within a clean and guided Salesforce interface.
@@ -24,3 +28,7 @@ The **Customer Service App** is designed for rental agents to manage the complet
 - **Reports & Tools** - Quick access to customers, drivers, rental agreements, and payments — all in one place.
 
 Every tool within the app is designed for ease of use, supporting the fast-paced needs of a customer-facing environment. Video walkthroughs are provided for training and onboarding purposes.
+
+---
+
+## 🧰 Vehicle Maintenance App
